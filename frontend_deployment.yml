@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: frontend-container
-        image: achrafb8h/travelo_frontend:1.0.2
+        image: achrafb8h/travelo_frontend:1.1.1
         ports:
         - containerPort: 80
